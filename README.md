@@ -1,4 +1,4 @@
-# QuFeX — Quantum Feature Extractor with Y-Net for Brain Tumor Classification
+# QuFeX - Quantum Feature Extractor with Y-Net for Brain Tumor Classification
 
 A hybrid quantum-classical deep learning framework that integrates a **Quantum Feature Extractor (QuFeX)** into a **Y-Net autoencoder** architecture for multi-class brain tumor classification from MRI scans.
 
